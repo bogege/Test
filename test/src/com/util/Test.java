@@ -10,4 +10,7 @@ public class Test {
 		System.out.println("213");
 	}
 
+	public static String test(){
+		return null;
+	}
 }
